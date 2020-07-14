@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello fellow nerds 🤗
 
-<!--
-**erikzrekz/erikzrekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently:
 
-Here are some ideas to get you started:
+* Making [Entergy](https://entergy.com) awesome
+* Building a worker-owned cooperative in New Orleans, LA 
+* Deploying on the Jamstack, using Netlify
+* Trying out new possibilities with Ethereum and IPFS
+* Reducing my electricity consumption with Sense
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: He/Him/His
+
+Twitter: [@eriksreks](https://twitter.com/eriksreks)
+Site: [4quartets](https://4quartets.com)
