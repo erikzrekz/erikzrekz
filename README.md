@@ -2,13 +2,12 @@
 
 Currently:
 
-* Making [Entergy](https://entergy.com) awesome
+* Freelancing and writing
 * Building a worker-owned cooperative in New Orleans, LA 
-* Deploying on the Jamstack, using Netlify
-* Taking Airtable Scripts & Automation to the max
-* Reducing my electricity consumption with Sense
+* Deploying using Netlify and Firebase
 
-Pronouns: He/Him/His
-
-Twitter: [@eriksreks](https://twitter.com/eriksreks)
-Site: [4quartets](https://4quartets.com)
+Other:
+* Pronouns: He/Him/His
+* LinkedIn: [eriksreks](https://www.linkedin.com/in/eriksreks/)
+* Twitter: [@eriksreks](https://twitter.com/eriksreks)
+* Site: [4quartets](https://4quartets.com)
