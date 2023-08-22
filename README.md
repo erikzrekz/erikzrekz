@@ -1,11 +1,11 @@
-### Hello fellow nerds 🤗
+### Hello!
 
-Currently:
+Currently working on:
 
-* By day - VP, Product at [recur.com](https://recur.com)
-* By night - Working on Issue 3 of Mixed Media. See [Issue 1 on Incarceration Objects](https://issue1.mxd.media/) and [Issue 2 on Operating Water Pumps in New Orleans](https://issue2.mxd.media/)
+* A freelance project with the [Mindgrub](https://mindgrub.com/) team.
+* Issue 3 of Mixed Media with [Civic Studio](https://www.civicstudio.coop/). See [Issue 1 on Incarceration Objects](https://issue1.mxd.media/) and [Issue 2 on Operating Water Pumps in New Orleans](https://issue2.mxd.media/).
+* A fork of [ToolJet](https://github.com/ToolJet/ToolJet).
 
-Other:
-* Pronouns: He/Him/His
-* LinkedIn: [eriksreks](https://www.linkedin.com/in/eriksreks/)
-* Twitter: [@eriksreks](https://twitter.com/eriksreks)
+---
+
+[LinkedIn](https://www.linkedin.com/in/eriksreks/) • [@eriksreks](https://twitter.com/eriksreks) • He/Him/His
