@@ -1,11 +1,11 @@
-### Hello!
+**ABOUT ME**
 
-Currently working on:
+- Providence, RI is home, for now
 
-* A freelance project with the [Mindgrub](https://mindgrub.com/) team.
-* Issue 3 of Mixed Media with [Civic Studio](https://www.civicstudio.coop/). See [Issue 1 on Incarceration Objects](https://issue1.mxd.media/) and [Issue 2 on Operating Water Pumps in New Orleans](https://issue2.mxd.media/).
-* A fork of [ToolJet](https://github.com/ToolJet/ToolJet).
+- I am currently working on [MarketerHire](https://marketerhire.com)
 
----
+**GET IN TOUCH**
 
-[LinkedIn](https://www.linkedin.com/in/eriksreks/) • [@eriksreks](https://twitter.com/eriksreks) • He/Him/His
+- My email is eriksreks@gmail.com
+
+- Put some time on my calendar [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2SXwn9TU4dB-wzmSo3bkFQVJ0LrEa0JAgtc_2u3tXOtNgCnuxnnjz2elk2H7v3Gd6AK8daw3xU)
